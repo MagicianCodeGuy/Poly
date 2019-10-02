@@ -1,0 +1,16 @@
+body{
+  font-family: Prata, Verdana, Serif;
+
+  background-color: #f4f4f4;
+}
+
+/* Global */
+
+/*Header*/
+#header{
+  background: #042250;
+  color: #ffffff;
+  border-bottom: #BD1414 3px solid;
+}
+
+
